@@ -100,8 +100,6 @@ This project is designed to be modular. Next steps include:
 - Security-oriented recon mode (form detection, tech fingerprinting)
 - Conversational query interface (QA over crawl)
 
-See the detailed roadmap below for Level‑10 planning and milestones.
-
 ---
 
 ## License
